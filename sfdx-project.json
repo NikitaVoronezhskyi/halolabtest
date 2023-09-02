@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "halolabtest",
+  "namespace": "",
+  "sfdcLoginUrl": "https://voronezhskyihalolab5-dev-ed.develop.lightning.force.com/",
+  "sourceApiVersion": "58.0"
+}
